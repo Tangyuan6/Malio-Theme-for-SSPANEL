@@ -28,8 +28,6 @@
 
 需要去.config.php打开订阅记录的开关才会记录订阅
 
-## Telegram
-主题交流群 [@章鱼哥的SSPanel之家](https://t.me/woaizyg)
 
 ## AFF
 推荐的支付平台👉 [BitPayX](https://merchants.mugglepay.com/user/register?ref=MP8DF1B016220D) ，支持数字货币、支付宝、微信，提款数字货币
